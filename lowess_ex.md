@@ -2,7 +2,7 @@
 
 ---
 
-Before we get to locally weighted regression we will start with the basic assumption of linear regresion: $$ y = X ⋅ β + σϵ$$
+Before we get to locally weighted regression we will start with the basic assumption of linear regresion: $$ y = X ⋅ β + σϵ $$
 
 Linear regrssion is the linear combination of observed outputs i.e. values of the dependent variable. Below we have the vectorized form of linear regression where $X^T$ are our observations:
 
