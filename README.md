@@ -1,4 +1,6 @@
 # DATA441
+
+This repository houses my projects completed in DATA 441 Advanced Applied Machine Learning
 ---
 
 ## Projects
